@@ -1,94 +1,34 @@
+# 💼 CV Online – Tester Portfolio
+
+Website CV cá nhân được xây dựng bằng HTML & CSS nhằm giới thiệu bản thân, kỹ năng và các project kiểm thử phần mềm.
 
 ---
 
-## 📌 Main Features
+## 👨‍💻 About Me
 
-- Sidebar hiển thị thông tin cá nhân
-- Mục tiêu nghề nghiệp
-- Kỹ năng Tester
-- Project kiểm thử
-- Trình độ ngoại ngữ
-- Giao diện rõ ràng, dễ đọc
+Xin chào, mình là **Hán Văn Bảo**  
+Sinh viên ngành **Công nghệ thông tin – Khoa học dữ liệu & Trí tuệ nhân tạo**.
 
----
+🎯 Định hướng: **Tester / QA Intern**
 
-## 🧪 Testing Projects
-
-### 🔹 1. Manual Testing Project
-
-- Phân tích yêu cầu website e-commerce
-- Viết 50+ test case
-- Thực hiện Smoke Test & Regression Test
-- Phát hiện và báo cáo 15+ bug
-- Viết Bug Report gồm:
-  - Steps to Reproduce
-  - Expected Result
-  - Actual Result
-  - Severity / Priority
-
-Công cụ sử dụng:
-- Excel / Google Sheet
-- Jira (mô phỏng)
+Mình có nền tảng lập trình cơ bản và đang tập trung phát triển kỹ năng kiểm thử phần mềm (Manual Testing, API Testing). Mục tiêu của mình là trở thành QA Engineer chuyên nghiệp trong tương lai.
 
 ---
 
-### 🔹 2. API Testing Project
+## 🚀 Live Demo
 
-- Test API bằng Postman
-- Kiểm tra HTTP Methods (GET, POST)
-- Validate status code (200, 400, 401, 404...)
-- Kiểm tra JSON response
-- Viết test case cho API Login & User
-
-Công cụ sử dụng:
-- Postman
-- SQL (SELECT, WHERE cơ bản)
+🔗 Website: https://vanbao04.github.io/portfolio/  
+🔗 Repository: https://github.com/vanbao04/portfolio  
 
 ---
 
-## 🧠 Skills
+## 🛠️ Technologies Used
 
-### Manual Testing
-- SDLC, STLC
-- Test Case & Test Scenario
-- Bug Life Cycle
-- Severity & Priority
-- Smoke & Regression Testing
-
-### Technical Skills
-- SQL cơ bản
-- REST API
-- Postman
+- HTML5
+- CSS3
 - Git & GitHub
-
-### Programming (Basic)
-- Python
-- HTML & CSS
+- GitHub Pages (Deploy)
 
 ---
 
-## 🎯 Career Objective
-
-Mục tiêu ngắn hạn:
-- Hoàn thành tốt vị trí Tester Intern
-- Làm việc trong môi trường Agile
-- Nâng cao kỹ năng Manual Testing & API Testing
-
-Mục tiêu dài hạn:
-- Trở thành QA Engineer
-- Phát triển lên Automation Testing
-
----
-
-## 📬 Contact
-
-📧 Email: hanvanbao08@gmail.com  
-📞 Phone: 0966943236  
-📍 Location: Bắc Ninh, Việt Nam  
-
----
-
-## ⭐ Acknowledgement
-
-Cảm ơn bạn đã xem project này.  
-Nếu bạn thấy hữu ích, hãy ⭐ repository để ủng hộ nhé!
+## 📂 Project Structure
