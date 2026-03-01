@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+.container {
+    display: flex;
+    max-width: 1100px;
+    margin: 30px auto;
+    background: white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.sidebar {
+    width: 35%;
+    background: #4b2e2e;
+    color: white;
+    padding: 30px;
+}
+
+.sidebar img {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.sidebar h2 {
+    margin: 10px 0 5px;
+}
+
+.sidebar p, .sidebar li {
+    font-size: 14px;
+}
+
+.section {
+    margin-bottom: 25px;
+}
+
+.section h3 {
+    border-bottom: 1px solid white;
+    padding-bottom: 5px;
+}
+
+.main {
+    width: 65%;
+    padding: 30px;
+}
+
+.main h2 {
+    color: #4b2e2e;
+    border-bottom: 2px solid #4b2e2e;
+    padding-bottom: 5px;
+}
+
+ul {
+    padding-left: 20px;
+}
