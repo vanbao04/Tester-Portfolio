@@ -1,4 +1,4 @@
-# 💼 CV Online – Tester Portfolio
+# 💼 CV Online – Tester
 
 Website CV cá nhân được xây dựng bằng HTML & CSS nhằm giới thiệu bản thân, kỹ năng và các project kiểm thử phần mềm.
 
@@ -11,7 +11,7 @@ Sinh viên ngành **Công nghệ thông tin – Khoa học dữ liệu & Trí tu
 
 🎯 Định hướng: **Tester / QA Intern**
 
-Mình có nền tảng lập trình cơ bản và đang tập trung phát triển kỹ năng kiểm thử phần mềm (Manual Testing, API Testing). Mục tiêu của mình là trở thành QA Engineer chuyên nghiệp trong tương lai.
+Sinh viên Công nghệ thông tin chuyên ngành Khoa học dữ liệu và trí tuệ nhân tạo mong muốn tìm vị trí thực tập IT để được tiếp cận môi trường làm việc thực tế, rèn luyện kiến thức nền tảng về phát triển phần mềm và kiểm thử, từ đó định hướng phát triển lâu dài trong ngành CNTT.
 
 ---
 
@@ -28,7 +28,3 @@ Mình có nền tảng lập trình cơ bản và đang tập trung phát triể
 - CSS3
 - Git & GitHub
 - GitHub Pages (Deploy)
-
----
-
-## 📂 Project Structure
