@@ -1,30 +1,75 @@
-# 💼 CV Online – Tester
+# Tester Portfolio
 
-Website CV cá nhân được xây dựng bằng HTML & CSS nhằm giới thiệu bản thân, kỹ năng và các project kiểm thử phần mềm.
+This repository contains my personal **Software Testing Portfolio**.
 
----
-
-## 👨‍💻 About Me
-
-Xin chào, mình là **Hán Văn Bảo**  
-Sinh viên ngành **Công nghệ thông tin – Khoa học dữ liệu & Trí tuệ nhân tạo**.
-
-🎯 Định hướng: **Tester / QA Intern**
-
-Sinh viên Công nghệ thông tin chuyên ngành Khoa học dữ liệu và trí tuệ nhân tạo mong muốn tìm vị trí thực tập IT để được tiếp cận môi trường làm việc thực tế, rèn luyện kiến thức nền tảng về phát triển phần mềm và kiểm thử, từ đó định hướng phát triển lâu dài trong ngành CNTT.
+The website presents my profile, skills, and testing projects.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-🔗 Website: https://vanbao04.github.io/portfolio/  
-🔗 Repository: https://github.com/vanbao04/portfolio  
+Portfolio website:
+
+https://vanbao04.github.io/Tester-Portfolio/
 
 ---
 
-## 🛠️ Technologies Used
+## About Me
 
-- HTML5
-- CSS3
-- Git & GitHub
-- GitHub Pages (Deploy)
+Hello, I'm **Han Van Bao**.
+
+I am an Information Technology student specializing in **Data Science and Artificial Intelligence**.
+
+I am interested in **Software Testing and Quality Assurance** and want to become a professional QA Engineer.
+
+---
+
+## Technologies Used
+
+- HTML
+- CSS
+- Git
+- GitHub Pages
+
+---
+
+## Project Structure
+
+Tester-Portfolio
+
+index.html  
+style.css  
+avatar.jpg  
+README.md
+
+---
+
+## How to Run Project
+
+Clone repository:
+
+git clone https://github.com/vanbao04/Tester-Portfolio.git
+
+Open file:
+
+index.html
+
+in your browser.
+
+---
+
+## Author
+
+Han Van Bao
+
+GitHub:  
+https://github.com/vanbao04
+
+Portfolio:  
+https://vanbao04.github.io/Tester-Portfolio/
+
+Email:  
+hanvanbao08@gmail.com
+
+Location:  
+Bac Ninh, Vietnam
